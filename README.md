@@ -1,3 +1,3 @@
 # SQUALO
 
-Private repo for all things related to SQUALO imaging.
+Repo for all things related to SQUALO imaging.
